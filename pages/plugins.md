@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Plug-ins
-description: 'How we deal with Plug-ins'
-permalink: /plugins/
-page_title: Plug-ins
+nav_order: 18
 ---
 Plugins provide extended functionality not native to the browser. Examples include PDF, Flash, Shockwave, Silverlight, and Java.
 
