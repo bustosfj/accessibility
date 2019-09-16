@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Headings
-description: 'Proper use of heading elements'
-permalink: /headings/
-page_title: Headings
+nav_order: 10
 ---
 
 When laying out a page, headings provide a semantic way to lay out sections of content. A heading element briefly describes the topic of the section it introduces. Heading elements are used by users of AT to navigate a page quickly and to understand the structure of a page. Also see [Landmarks](../landmarks/).
