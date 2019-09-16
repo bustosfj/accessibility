@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Tables
-description: 'How we deal with tables'
-permalink: /tables/
-page_title: Tables
+nav_order: 14
 ---
 
 When tables are used to show data, the header cells that relate to the data cells need to be programatically linked. This makes table navigation for screen readers less painful.
