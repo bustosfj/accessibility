@@ -1,10 +1,7 @@
 ---
+layout: default
 title: Keyboard access
-description: 'How we work with keyboards only'
-permalink: /keyboard/
-page_title: Keyboard access
-scripts:
-- assets/js/keyboard-access.js
+nav_order: 4
 ---
 
 Keyboard access to a website is key to the usability of your site. All interactions and information that can be accessed with a mouse **must** be accessible with just a keyboard. This doesn't mean everyone who can't use a mouse will use a keyboard, but alternative AT inputs use keyboard-like inputs to navigate the web.
