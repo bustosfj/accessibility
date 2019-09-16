@@ -1,8 +1,7 @@
 ---
-title: Hidden Content
-description: 'How and when to hide content'
-permalink: /hidden-content/
-page_title: Hidden Content
+layout: default
+title: Hidden content
+nav_order: 11
 ---
 
 Hiding content is very useful for accessibility. We can hide things visually and only display it to screen reader users, we can hide content from screen reader users and only show it visually, or we can hide content from both. 
