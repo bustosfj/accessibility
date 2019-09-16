@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Multimedia
-description: 'How we deal with multimedia'
-permalink: /multimedia/
-page_title: Multimedia
+nav_order: 13
 ---
 When using multimedia, we must provide means for everyone to consume the media. Multimedia is anything that uses audio and video.
 
