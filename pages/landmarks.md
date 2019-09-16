@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Landmarks
-description: 'Proper page layout using Landmarks'
-permalink: /landmarks/
-page_title: Landmark
+nav_order: 12
 ---
 
 All elements on a page should be contained in a landmark element. This helps users of AT quickly navigate a page. HTML5 provides built in landmark elements such as `main`, `nav`, `aside`, `header`, `footer`. When using HTML5 elements, don't define role.
