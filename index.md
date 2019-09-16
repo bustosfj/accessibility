@@ -1,20 +1,20 @@
 ---
-published: true
-permalink: /
-filename: index.md
-title: Home
-page_title: Home
+---
+layout: default
+title: Index
+nav_order: 1
+---
 ---
 
 Accessibility is one of the most important aspects of modern web development. Accessibility means the greatest number of users can view your content. It means search engines will be able to read your site more completely. Users of all types will have a better experience if you take accessibility concerns into account. And least of all, it is a required by law for all federal EIT products to be accessible (with a few minor exceptions).
 
 Accessibility works best when incorporated into an agile production environment. It's very hard to adequately address accessibility concerns at the end of a project, but if taken into account at the beginning, it's quite straightforward and cost effective. The best and perhaps only way to ensure this is done, is training and education. Every member of a production team should be aware of what accessibility concerns are and a basic understanding of how they are addressed.
 
-Here at 18F we follow [WCAG2.0 AA](https://www.w3.org/TR/WCAG20/) as our standard for accessibility. We do this for a couple of reasons. WCAG has long been the gold standard for accessibility on the web. The access board has also been working on a refresh to the correct 508 standards to incorporate WCAG2.0 AA into the standards. This sets us up for a smooth transition when that happens. Finally, under 1194.5 of the section 508 standards allows us to use a set of standards that meet the current standards.
+Here at Defions we follow [WCAG2.0 AA](https://www.w3.org/TR/WCAG20/) as our standard for accessibility. We do this for a couple of reasons. WCAG has long been the gold standard for accessibility on the web. The access board has also been working on a refresh to the correct 508 standards to incorporate WCAG2.0 AA into the standards. This sets us up for a smooth transition when that happens. Finally, under 1194.5 of the section 508 standards allows us to use a set of standards that meet the current standards.
 
-If you have any questions about accessibility, 508, or would like help, please reach out on the [GitHub Repo](https://github.com/18F/accessibility).
+If you have any questions about accessibility, 508, or would like help, please reach out to us.
 
-__Disclaimer:__ This resource is intended to help 18F develop accessible products and is not a replacement for the standards defined by the Access Board. Please visit the [Access Board](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) for information on 508 and their compliance criteria.
+__Disclaimer:__ This resource is intended to help Defions develop accessible products and is not a replacement for the standards defined by the Access Board. Please visit the [Access Board](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) for information on 508 and their compliance criteria.
 
 ## Resources
 
