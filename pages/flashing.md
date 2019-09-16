@@ -1,10 +1,7 @@
 ---
+layout: default
 title: Flashing
-description: 'How we deal with flashing'
-permalink: /flashing/
-page_title: Flashing
-scripts:
-- assets/js/flashing.js
+nav_order: 8
 ---
 Flashing is generally a bad idea. It can cause all sorts of issues, from seizures to motion sickness. If you absolutely must have a flashing element there are a few things to consider.
 
