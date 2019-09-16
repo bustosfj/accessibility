@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Training and videos
-description: 'Videos and trainings from around the web'
-permalink: /training-videos/
-page_title: Accessibility training and videos
+nav_order: 21
 ---
 
 ### Training and videos
