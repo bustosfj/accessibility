@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Tools
-description: 'Tools we use to improve and test accessibility'
-permalink: /tools/
-page_title: Accessibility-friendly Tools
+nav_order: 1
 ---
 
 ### Color Tools
