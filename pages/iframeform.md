@@ -1,9 +1,7 @@
 ---
-layout: iframe
-title: iframe form
-description: Fill out this form
-permalink: /iframeform/
-page_title: iFrame
+layout: default
+title: iFrame Form
+nav_order: 15
 ---
 
 <label for='fname'>First Name&nbsp;</label><input type='text' id='fname'>
