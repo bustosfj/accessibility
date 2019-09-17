@@ -1,7 +1,7 @@
 ---
 layout: default
-title: iFrame Form
-nav_order: 15
+title: iFrame form
+nav_exclude: true
 ---
 
 <label for='fname'>First Name&nbsp;</label><input type='text' id='fname'>
